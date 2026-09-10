@@ -14,7 +14,7 @@
 
 Ця спеціалізація складається з комплексу курсів. Нижче наведені сертифікати за кожен окремий пройдений етап:
 
-1. [Introduction to DevOps](./IBM%20DevOps%20and%20Software%20Engineering/Coursera Introduction to DevOps.pdf)
+1. [Introduction to DevOps](./IBM DevOps and Software Engineering/Coursera Introduction to DevOps.pdf)
 2. [Introduction to Cloud Computing](./IBM%20DevOps%20and%20Software%20Engineering/2_Introduction_to_Cloud_Computing.pdf)
 3. [Introduction to Agile Development and Scrum](./IBM%20DevOps%20and%20Software%20Engineering/3_Agile_Development_and_Scrum.pdf)
 4. [Hands-on Introduction to Linux Commands and Shell Scripting](./IBM%20DevOps%20and%20Software%20Engineering/4_Linux_Commands_and_Shell_Scripting.pdf)
