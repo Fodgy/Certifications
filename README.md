@@ -26,7 +26,7 @@
 10. [Application Development using Microservices and Serverless](./IBM%20DevOps%20and%20Software%20Engineering/Application%20Development%20using%20Microservices%20and%20Serverless.pdf)
 11. [Introduction to Test and Behavior Driven Development](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20Test%20and%20Behavior%20Driven%20Development.pdf)
 12. [Continuous Integration and Continuous Delivery (CI/CD)](./IBM%20DevOps%20and%20Software%20Engineering/Continuous%20Integration%20and%20Continuous%20Delivery%20(CI%20CD).pdf)
-13. [Application Security for Developers and DevOps Professionals//](./IBM%20DevOps%20and%20Software%20Engineering/ApplicationSecurityandMonitoring.pdf)
+13. [Application Security for Developers and DevOps Professionals](./IBM%20DevOps%20and%20Software%20Engineering/Application%20Security%20for%20Developers%20and%20DevOps%20Professionals.pdf)
 14. [Monitoring and Observability for Development and DevOps//]()
 15. [DevOps Capstone Project](./IBM%20DevOps%20and%20Software%20Engineering/DevOpsCapstoneProject.pdf)
 
