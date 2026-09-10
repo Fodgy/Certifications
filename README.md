@@ -10,16 +10,6 @@
 | **[IBM DevOps and Software Engineering]** | Coursera | IBM | 2024 | [🔗 Переглянути сертифікат](./assets/ibm-devops-software-engineering.pdf) |
 | **[Назва майбутньої спеціалізації]** | Coursera | Назва компанії | 202X | [🔗 Переглянути сертифікат](./assets/file-name.pdf) |
 
----
 
-## 📚 Окремі курси та навички (Single Courses)
 
-**Backend Розробка & Інфраструктура**
-* **Назва курсу (наприклад, Docker for Beginners)** — *Платформа* (2024) - [Переглянути](./assets/docker_course.pdf)
-* **Назва курсу (наприклад, Python REST APIs)** — *Платформа* (2023) - [Переглянути](./assets/api_course.pdf)
 
-**Аналіз даних (Data Analysis & SQL)**
-* **Назва курсу (наприклад, SQL for Data Science)** — *Платформа* (2023) - [Переглянути](./assets/sql_course.pdf)
-
----
-*💡 Примітка: Всі файли сертифікатів зберігаються локально в цьому репозиторії в директорії `/assets`.*
