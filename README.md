@@ -29,8 +29,6 @@
 14. [Monitoring and Observability for Development and DevOps//](./IBM%20DevOps%20and%20Software%20Engineering/Monitoring%20and%20Observability%20for%20Development%20and%20DevOps.pdf)
 15. [DevOps Capstone Project](./IBM%20DevOps%20and%20Software%20Engineering/DevOpsCapstoneProject.pdf)
 
-*(Всі файли сертифікатів знаходяться у відповідній [директорії репозиторію](https://github.com/Fodgy/Certifications/tree/main/IBM%20DevOps%20and%20Software%20Engineering))*
-
 ---
 
 ## 📚 Окремі курси (Single Courses)
