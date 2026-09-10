@@ -6,7 +6,7 @@
 
 ## 🌟 Професійні спеціалізації (Professional Certificates)
 
-### 🏆 IBM DevOps and Software Engineering
+### IBM DevOps and Software Engineering
 **Організація:** IBM | **Платформа:** Coursera 
 
 🔗 **[> ПЕРЕГЛЯНУТИ ГОЛОВНИЙ СЕРТИФІКАТ СПЕЦІАЛІЗАЦІЇ <](./IBM%20DevOps%20and%20Software%20Engineering/Головний_сертифікат.pdf)**
