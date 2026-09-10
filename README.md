@@ -17,7 +17,7 @@
 1. [Introduction to DevOps](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20DevOps.pdf)
 2. [Introduction to Cloud Computing](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20Cloud%20Computing.pdf)
 3. [Introduction to Agile Development and Scrum](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20Agile%20Development%20and%20Scrum.pdf)
-4. [Introduction to Software Engineering//](./IBM%20DevOps%20and%20Software%20Engineering/Getting%20Started%20with%20Git%20and%20GitHub.pdf)
+4. [Introduction to Software Engineering](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20Software%20Engineering.pdf)
 5. [Getting Started with Git and GitHub](./IBM%20DevOps%20and%20Software%20Engineering/Getting%20Started%20with%20Git%20and%20GitHub.pdf)
 6. [Hands-on Introduction to Linux Commands and Shell Scripting](./IBM%20DevOps%20and%20Software%20Engineering/Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.pdf)
 7. [Python for Data Science, AI & Development](./IBM%20DevOps%20and%20Software%20Engineering/Python%20for%20Data%20Science,%20AI%20&%20Development.pdf)
