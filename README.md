@@ -14,10 +14,10 @@
 
 Ця спеціалізація складається з комплексу курсів. Нижче наведені сертифікати за кожен окремий пройдений етап:
 
-1. [Introduction to DevOps](./IBM%20DevOps%20and%20Software%20Engineering/IntroductiontoDevOps.pdf)
-2. [Introduction to Cloud Computing](./IBM%20DevOps%20and%20Software%20Engineering/IntroductiontoCloudComputing.pdf)
-3. [Introduction to Agile Development and Scrum](./IBM%20DevOps%20and%20Software%20Engineering/IntroductiontoAgileDevelopmentandScrum.pdf)
-4. [Hands-on Introduction to Linux Commands and Shell Scripting](./IBM%20DevOps%20and%20Software%20Engineering/Hands-onIntroductiontoLinuxCommandsandShellScripting.pdf)
+1. [Introduction to DevOps](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20DevOps.pdf)
+2. [Introduction to Cloud Computing](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20Cloud%20Computing.pdf)
+3. [Introduction to Agile Development and Scrum](./IBM%20DevOps%20and%20Software%20Engineering/Introduction%20to%20Agile%20Development%20and%20Scrum.pdf)
+4. [Hands-on Introduction to Linux Commands and Shell Scripting](./IBM%20DevOps%20and%20Software%20Engineering/Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.pdf)
 5. [Getting Started with Git and GitHub](./IBM%20DevOps%20and%20Software%20Engineering/GettingStartedwithGitandGitHub.pdf)
 6. [Python for Data Science, AI & Development](./IBM%20DevOps%20and%20Software%20Engineering/PythonforDataScience,AI&Development.pdf)
 7. [Python Project for AI & Application Development](./IBM%20DevOps%20and%20Software%20Engineering/PythonProjectforAI&ApplicationDevelopment.pdf)
